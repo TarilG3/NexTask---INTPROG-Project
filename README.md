@@ -8,4 +8,5 @@ Beldad, Tristan Dave
 Andrade, James Ronel 
 Parro, Jayson Carl
 
-Inside XAMPP directory, place the files inside a folder in htdocs named "NexTask", then run Apache and MySql.
+Unzip the ZIP file.
+Inside XAMPP directory, place the files inside 'htdocs' folder, then run Apache and MySql.
