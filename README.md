@@ -7,6 +7,3 @@ Pantaleon, Orly
 Beldad, Tristan Dave 
 Andrade, James Ronel 
 Parro, Jayson Carl
-
-Unzip the ZIP file.
-Inside XAMPP directory, place the files inside 'htdocs' folder, then run Apache and MySql.
