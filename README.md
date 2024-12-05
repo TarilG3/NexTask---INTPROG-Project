@@ -7,3 +7,7 @@ Pantaleon, Orly
 Beldad, Tristan Dave 
 Andrade, James Ronel 
 Parro, Jayson Carl
+
+Admin Access Credentials:
+Email: admin@admin.com
+Password: admin123
